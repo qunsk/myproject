@@ -10,5 +10,6 @@
 <script type="text/javascript">
 	confirm("확인");
 </script>
+index.jsp 파일
 </body>
 </html>
