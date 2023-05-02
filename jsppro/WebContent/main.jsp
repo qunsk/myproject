@@ -7,13 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<script type="text/javascript">
-	confirm("확인");
-</script>
-index.jsp 파일
-index.jsp 파일
-index.jsp 파일
-index.jsp 파일
-index.jsp 파일
+
+main.jsp(user1)
+
 </body>
 </html>
